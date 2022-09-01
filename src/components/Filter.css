@@ -1,0 +1,14 @@
+nav{
+    padding: 10px 20px;
+}
+
+nav> div{
+    box-shadow: 0 0 10px #666;
+    padding: 20px;
+}
+
+.btn {margin: 0 10px}
+.btn1 {background: red !important }
+.btn2 {background:green !important}
+.btn3 {background: lightgreen !important}
+.btn4 {background: cornflowerblue !important}
